@@ -2,14 +2,20 @@
 
 **Desarrollador backend junior** · Titulado en Desarrollo de Aplicaciones Multiplataforma (DAM) · Elche, España
 
-> Junior backend developer from Spain, open to on-site, hybrid or remote roles, including relocation.
+> Junior backend developer (Java · Spring Boot · C# .NET) from Spain, open to on-site, hybrid or remote roles, including relocation.
 
-Me gusta construir la parte que no se ve: **APIs, bases de datos, autenticación e integraciones**. Mi foco es el backend, aunque también me muevo con soltura en frontend y móvil cuando el proyecto lo pide.
+Me gusta construir la parte que no se ve: **APIs, bases de datos, autenticación e integraciones**. Mi stack preferido es **Java y Spring Boot**, y en mis prácticas trabajé con **C# / .NET**. Aunque mi foco es el backend, también me muevo con soltura en frontend y móvil cuando el proyecto lo pide.
 
 - **Ubicación:** Elche (disponible en Alicante, Torrellano, Murcia y alrededores). Presencial, híbrido o remoto, y abierto a reubicación.
 - **Situación:** ciclo de DAM terminado, buscando mi primer empleo como desarrollador.
 
 ---
+
+## Experiencia
+
+**Desarrollador de software (prácticas)** · Navegatel Marketing, Elche · feb. – jun. 2026
+
+Plataforma de análisis de visibilidad de marcas en modelos de IA generativa y aplicaciones multiplataforma (entre ellas, gestión de fichajes) con backend en C# / .NET, app móvil en .NET MAUI y cliente web en React.
 
 ## Proyectos destacados
 
@@ -39,10 +45,10 @@ Sistema de gestión de propuestas de reforma legal y votaciones a nivel internac
 
 ## Tecnologías
 
-- **Backend:** Java · Spring Boot · Python · FastAPI · Node.js · Express
+- **Backend:** Java · Spring Boot · C# · .NET · Python · FastAPI · Node.js · Express
 - **Bases de datos:** PostgreSQL · SQL · MongoDB · SQLAlchemy · Mongoose
 - **Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS
-- **Móvil y escritorio:** Kotlin · Jetpack Compose · Electron
+- **Móvil y escritorio:** Kotlin · Jetpack Compose · .NET MAUI · Electron
 - **Herramientas:** Git · GitHub · Docker · Vercel · Fly.io · Firebase
 
 ## Idiomas
